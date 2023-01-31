@@ -1,0 +1,95 @@
+body{
+  background-color: #CC5500;
+}
+
+
+.navContainer{
+/* border:solid navy ; */
+ margin:1em;
+ display:flex;
+ justify-content: space-evenly; 
+
+}
+
+.background{
+  background-color: blue;
+}
+
+.mainContainer{
+  /* border: solid green; */
+  height: 40vh;
+  /* margin:1em; */
+  display: flex;
+  /* justify-content: space-around;   */
+}
+
+.description1{
+  /* border: solid black; */
+  width: 40%;
+  margin-left: 18%;
+  font-size: 35px;
+  font-style: italic;
+  padding: 1em;
+  
+}
+
+.profileContainer{
+  /* border:solid orange ; */
+  height: 40vh;
+  /* margin:1em;    */
+  display: flex;
+  justify-content:space-evenly;
+}
+
+
+.bottomContainer{
+  border:solid red ;
+  height: 40vh;
+    /* margin:1em;   */
+   display: flex; 
+   justify-content: space-evenly;
+   
+}
+
+
+.glide{
+  width: 125%;
+  height: 100%;
+  display: flex;
+  padding:right
+  }
+
+
+.men{
+ height: 100%;
+ width: 100%; 
+ 
+}
+
+.girls{
+  height: 100%;
+  width: 100%;
+}
+
+.btnTop{
+  
+  background-color:#CC5500;
+  color: black;
+  font-size: 15px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  border: solid #CC5500;
+  border-radius: 15px;
+
+}
+
+.bottompic{
+  height:100%;
+  width: 25%;
+  /* position: absolute; */
+
+
+  
+ 
+
+}
+
